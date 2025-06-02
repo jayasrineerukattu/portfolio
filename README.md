@@ -35,7 +35,7 @@ Here are some of the projects I’ve worked on or am currently building:
 I'd love to connect with you!
 
 - 📧 **Email:** njayasree8897@gmail.com 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341](www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341)  
 - 🖥️ **GitHub:** [github.com/yourusername]()
 .
 
@@ -59,7 +59,7 @@ Check it out live here: [https://yourusername.github.io/portfolio](https://youru
 ## 📬 Contact
 
 - 📧 Email: njayasree8897@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341)
+- 💼 LinkedIn: [www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341](www.linkedin.com/in/jaya-sri-neerukattu-a11ba7341)
 
 ---
 
